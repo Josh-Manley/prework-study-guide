@@ -1,7 +1,7 @@
 # <Prework Study Guide Webpage>
 
 ## Description
-This application was built for bootcamp students like me to going through prework to see notes on HTML, CSS, Git, and JavaScript. 
+This application was built for bootcamp students going through prework to see notes on HTML, CSS, Git, and JavaScript. 
 
 
 ## Installation
